@@ -1,0 +1,1 @@
+I have not saved most of my old solutions, so I'll be writing them again and adding them to this directory. Rather than a waste of time, I look forward to solving the problems more efficiently and more effectively, as I first solved them before I did app academy, and knew nothing about object oriented programming or ruby enumerable methods.  
