@@ -2,6 +2,6 @@
 #
 # What is the largest prime factor of the number 600851475143 ?
 
-require_relative '../utility_functions'
+require_relative '../../utility_functions'
 
 puts 600851475143.prime_factors.last

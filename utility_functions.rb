@@ -31,6 +31,10 @@ class Integer
   def permutations
     self.to_s.chars.to_a.permutation.map(&:join).map(&:to_i).uniq
   end
+
+  def digit(n)
+    self.to_s.split(//)[self.digits - n].to_i
+  end
 end
 
 class Float

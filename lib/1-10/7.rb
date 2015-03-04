@@ -2,6 +2,6 @@
 #
 # What is the 10 001st prime number?
 
-require_relative '../utility_functions'
+require_relative '../../utility_functions'
 
 puts (Prime.first 10001).last

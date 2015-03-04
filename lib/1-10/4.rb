@@ -2,7 +2,7 @@
 #
 # Find the largest palindrome made from the product of two 3-digit numbers.
 
-require_relative '../utility_functions'
+require_relative '../../utility_functions'
 
 def products(digits)
   numbers = []
