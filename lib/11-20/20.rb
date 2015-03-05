@@ -4,4 +4,4 @@
 
 require_relative '../../utility_functions'
 
-puts (Prime.first 200000).select{|p| p < 2000000}.reduce(:+)
+puts 100.factorial.digit_sum

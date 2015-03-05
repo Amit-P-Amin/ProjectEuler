@@ -8,6 +8,16 @@ class Integer
     end.sort
   end
 
+  def divisors
+    divs = self.factors
+    divs.pop
+    divs
+  end
+
+  def factorial
+    f = 1; for i in 1..self; f *= i; end; f
+  end
+
   def prime_factors
     self.factors.select {|n| n.prime?}
   end
@@ -47,6 +57,10 @@ class String
   def palindrome?
     return true if self == self.reverse
     false
+  end
+
+  def to_is
+    self.split(" ").map{|s|s.to_i}
   end
 end
 

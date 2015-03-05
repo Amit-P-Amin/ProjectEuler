@@ -1,1 +1,5 @@
-I have not saved most of my old solutions, so I'll be writing them again and adding them to this directory. Rather than a waste of time, I look forward to solving the problems more efficiently and more effectively, as I first solved them before I did app academy, and knew nothing about object oriented programming or ruby enumerable methods.  
+I first worked on Project Euler five months ago, completing 55 problems in preparation for App Academy. I didn't save my solutions, so on creating this repository I redid the first 21.
+
+At first, I didn't mind redoing problems. What took me dozens of lines of code before, I was now able to do in one or two lines. Object oriented programming and Ruby enumerable methods are extremely powerful.
+
+Then I got bored, so I moved on to new problems.
